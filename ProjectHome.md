@@ -1,0 +1,1 @@
+Monte-Carlo based Texas Holdem poker calculator, written in Java, for Android, in Sofia, Bulgaria.
